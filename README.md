@@ -30,3 +30,6 @@ It is part of a larger **microservice sample application**.
 
 ```bash
 docker compose up --build
+
+base url = http://localhost:5000
+
